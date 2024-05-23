@@ -3,9 +3,6 @@ public class MultiplyExample {
        int a;
        int b;
        
-       a = 5;
-       b = 58;
-       c = a*b; //integer number to keep the result of multiplication
-       System.out.println("5*58 = " + c);
+       
    }
 }
