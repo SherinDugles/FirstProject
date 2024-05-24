@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class MultiplyExample {
    public static void main(String[] args) {
 <<<<<<< HEAD
@@ -14,3 +15,8 @@ public class MultiplyExample {
 >>>>>>> pr
         }
 }
+=======
+1234567890
+Raihana
+  
+>>>>>>> 7d5a49afe1b9a34fdcfc923d66113d3b8fc18ee8
