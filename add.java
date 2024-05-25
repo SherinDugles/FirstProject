@@ -3,7 +3,7 @@ public class MultiplyExample {
         int a;
         int b;
         
-       c
+    
         
         System.out.println("5*58 = " + c);
     }
