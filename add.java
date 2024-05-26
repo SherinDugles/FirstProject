@@ -5,6 +5,6 @@ public class MultiplyExample {
         
     
         
-        System.out.println("5*58 = " + c);
+        System.out.println("5*58")
     }
  }
